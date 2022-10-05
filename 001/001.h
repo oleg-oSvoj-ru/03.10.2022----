@@ -5,4 +5,4 @@
 \copyright MIT
 */
 
-int hello (void);
+int start (void);
