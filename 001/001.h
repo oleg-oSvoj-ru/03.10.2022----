@@ -6,3 +6,5 @@
 */
 
 int start (void);
+void s001 (int a);
+void s002 (void);
